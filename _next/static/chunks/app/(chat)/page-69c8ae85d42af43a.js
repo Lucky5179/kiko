@@ -613,7 +613,7 @@
                 animate: { y: 0, x: 0, scale: 1 },
                 transition: { duration: 1, delay: 1.2 },
                 children: (0, s.jsx)(d.default, {
-                  onClick: () => window.open("https://x.com/kiko_eth"),
+                  onClick: () => window.open("https://x.com/kiko_erc20"),
                   loading: "eager",
                   src: "/x.png",
                   alt: "Castle",
@@ -644,7 +644,7 @@
                 className:
                   "absolute bottom-[46%] left-0 right-0 w-fit z-30 cursor-pointer hover:animate-shake mx-auto",
                 children: (0, s.jsx)(d.default, {
-                  onClick: () => window.open("https://t.me/kiko_eth_portal"),
+                  onClick: () => window.open("https://t.me/kikomeme_erc20"),
                   loading: "eager",
                   src: "/dev.png",
                   alt: "Castle",
