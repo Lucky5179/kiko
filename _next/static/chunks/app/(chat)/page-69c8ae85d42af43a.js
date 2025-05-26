@@ -594,7 +594,7 @@
                 children: (0, s.jsx)(d.default, {
                   onClick: () =>
                     window.open(
-                      "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon"
+                      "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x52b44f580d7d91572a186fd37c9388516cb2cac0"
                     ),
                   loading: "eager",
                   src: "/buy.png",
@@ -629,7 +629,7 @@
                   "absolute bottom-[47%] left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-30 cursor-pointer",
                 children: (0, s.jsx)(d.default, {
                   onClick: () =>
-                    window.open("https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon"),
+                    window.open("https://dextools.io/app/en/ether/pair-explorer/0x52b44f580d7d91572a186fd37c9388516cb2cac0"),
                   loading: "eager",
                   src: "/poc.png",
                   alt: "Castle",
